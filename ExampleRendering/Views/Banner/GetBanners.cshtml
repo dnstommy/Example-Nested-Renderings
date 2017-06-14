@@ -1,0 +1,13 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@using ExampleRendering.Models
+@model BannerModel
+@{
+
+}
+<div>
+    @foreach (var banner in Model.Banners)
+    {
+        @Html.Sitecore().ItemRendering(banner)
+    }
+</div>

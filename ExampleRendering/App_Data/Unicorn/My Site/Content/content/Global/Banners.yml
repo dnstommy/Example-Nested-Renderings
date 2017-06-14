@@ -1,0 +1,22 @@
+﻿---
+ID: "09d2e40b-2f64-4a2c-90e7-b323e9eaa196"
+Parent: "73cff1d2-513f-48ff-a504-959bb1001c2e"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Global/Banners
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/folder_cubes.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{24F674DD-D381-4603-995E-29E0AB86DE9E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T224040Z

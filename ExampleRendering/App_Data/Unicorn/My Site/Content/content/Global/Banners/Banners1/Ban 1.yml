@@ -1,0 +1,14 @@
+﻿---
+ID: "a3ca6055-f4ff-49eb-a543-dda23b98b984"
+Parent: "b42624eb-9f25-4ec2-80a3-c9ddd6af6b28"
+Template: "cec82e45-443f-41e2-99e4-f24a477f96d5"
+Path: /sitecore/content/Global/Banners/Banners1/Ban 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T224735Z

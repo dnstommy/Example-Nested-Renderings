@@ -1,0 +1,14 @@
+﻿---
+ID: "af59c668-7a8d-4584-8b5e-fd6c42a2fcb1"
+Parent: "b29ee504-861c-492f-95a3-0d890b6fca09"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/User Defined/Banner
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T223837Z

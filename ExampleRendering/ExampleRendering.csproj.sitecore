@@ -1,0 +1,11 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="http://rendering.local" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+  <File Include="Views\Banner\Banner.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{AC27BB8F-2048-4F6E-BEC9-E16A369A1ECD}</Item>
+  </File>
+  <File Include="Views\Banner\GetBanners.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{3A2FAB34-D616-43CD-9CBD-A35DA7E044D2}</Item>
+  </File>
+</Project>

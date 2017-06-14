@@ -1,0 +1,26 @@
+﻿---
+ID: "4287b24e-fa96-4d46-8c8c-cdf61dad0038"
+Parent: "cec82e45-443f-41e2-99e4-f24a477f96d5"
+Template: "cec82e45-443f-41e2-99e4-f24a477f96d5"
+Path: /sitecore/templates/User Defined/Banner/Banner/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: 
+- ID: "b03569b1-1534-43f2-8c83-bd064b7d782c"
+  Hint: __Renderers
+  Value: "{AC27BB8F-2048-4F6E-BEC9-E16A369A1ECD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T223928Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
